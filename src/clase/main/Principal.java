@@ -6,11 +6,15 @@
 
 package clase.main;
 
-
 /**
  *
- * @author pc
+ * @author pedro
  */
 public class Principal {
+    
+    public static void main(String[] args){
+        Ej2 ej2=new Ej2();
+        ej2.mostrar();
+    }
     
 }
